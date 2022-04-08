@@ -2,7 +2,7 @@
 "spider": "http://fj365.ml/0/0.txt?raw=true",
 //"spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 //"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/main_spider.txt",
-"sites": [{"key":"快播云","name":"快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]},
+"sites": [
 {"key":"环","name":"*环","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"狼","name":"狼","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
 {"key":"富","name":"富","type":0,"api":"http://f2dcj6.com/sapi/?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
